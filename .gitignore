@@ -1,0 +1,16 @@
+# .gitignore
+
+# Ignore node_modules directory
+projects/
+logs/
+secrets/
+overrides/
+
+# Ignore files 
+pancake
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
